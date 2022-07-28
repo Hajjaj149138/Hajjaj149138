@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Computer Graphics and C#
 - 💞️ I’m looking to collaborate on Computer Graphics
-- 📫 How to reach me 01405833036
+- 📫 How to reach me hajjajbin149138@gmail.com
 
 <!---
 Hajjaj149138/Hajjaj149138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
