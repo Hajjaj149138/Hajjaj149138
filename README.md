@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MD. HAJJAJ BIN SONOSI</h1>
 <h3 align="center">A passionate Software Engineering Enthusiast from Bangladesh.</h3>
 
-<img align="right" alt="Coding" width="400" src="<iframe src="https://gifer.com/embed/fz50" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>">
+<img align="right" alt="Coding" width="400" src="<iframe src="https://gifer.com/en/fz50">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hajjaj149138&label=Profile%20views&color=0e75b6&style=flat" alt="hajjaj149138" /> </p>
