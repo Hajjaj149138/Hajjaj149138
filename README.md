@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://gist.github.com/85942af486eb79118467.git ~/Pictures/wallpapers)]
 
 <h1 align="center">Hi 👋, I'm MD. HAJJAJ BIN SONOSI</h1>
 <h3 align="center">A passionate Software Engineering Enthusiast from Bangladesh.</h3>
