@@ -26,7 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-hajjaj-bin-sonosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-hajjaj-bin-sonosi" height="30" width="40" /></a>
-<a href="https://fb.com/hajjaj shawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hajjaj shawon" height="30" width="40" /></a>
+  
+<a href="https://www.facebook.com/profile.php?id=100009175346793&mibextid=ZbWKwL"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hajjaj shawon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
