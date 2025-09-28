@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Md. Hajjaj Bin Sonosi</h1>
 
 <p align="center">
-  🧑‍💻 Software Engineer | Aspiring .NET Developer <br/>
+  🧑‍💻 Software Engineer | Aspiring Backend Developer <br/>
   🎓 B.Sc. in CSE (Major in Software Engineering)<br/>
-  💻 Currently learning: C# | ASP.NET Core | Entity Framework
+  🚀 Currently working with: Java | Spring Boot | RESTful APIs <br/>
   📍 Based in Dhaka, Bangladesh | Open to global opportunities
 </p>
 
@@ -12,19 +12,21 @@
 ## 🧠 About Me
 
 I'm a recent graduate from **American International University-Bangladesh (AIUB)** with a CGPA of **3.86**.  
-I’m passionate about building real-world software, solving problems through code, and continuously learning new technologies.  
-Currently diving deep into **C#** and **ASP.NET Core**, while applying my strong foundation in **C++, Java, and JavaScript**.
+I’m passionate about building scalable backend systems, solving problems through code, and continuously learning new technologies.  
 
-I'm looking to grow as a **.NET Full Stack Developer** and contribute to impactful projects in tech-driven environments.
+Currently focusing on **Backend Web Development with Java & Spring Boot**, while also applying my strong foundation in **C#, ASP.NET Core, C++, and JavaScript**.  
+
+I'm aiming to grow as a **Backend/Full Stack Developer** and contribute to impactful projects in tech-driven environments.
 
 ---
 
 ## 🔧 Technical Skills
 
-- **Languages:** C#, C++, Java, JavaScript, Python, PHP  
-- **Web:** HTML, CSS, JavaScript, ASP.NET MVC/Core  
+- **Languages:** Java, C#, C++, JavaScript, Python, PHP  
+- **Backend:** Spring Boot, ASP.NET Core/MVC  
+- **Web:** HTML, CSS, JavaScript  
 - **Database:** Microsoft SQL Server, MySQL, Oracle  
-- **Tools:** Visual Studio, Git, GitHub, Adobe Photoshop, Figma, Canva  
+- **Tools:** IntelliJ IDEA, Visual Studio, Git, GitHub, Postman, Figma, Canva  
 - **Others:** MATLAB, AutoCAD
 
 ---
@@ -34,7 +36,7 @@ I'm looking to grow as a **.NET Full Stack Developer** and contribute to impactf
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
 | **Food Delivery System** | Online food ordering platform | HTML, CSS, JavaScript, JSON | [Repo](https://github.com/Hajjaj149138/Food-Delivery-System) |
-| **E‑Ticketing System** | Ticket booking for bus/train/plane | Java, Java Swing | [Repo](https://github.com/Hajjaj149138/E_Ticketing-System-Bus-Train-Plane-) |
+| **E-Ticketing System** | Ticket booking for bus/train/plane | Java, Java Swing | [Repo](https://github.com/Hajjaj149138/E_Ticketing-System-Bus-Train-Plane-) |
 | **Modern City Scenario** | OpenGL visual of a modern city | C++, GLUT | [Repo](https://github.com/Hajjaj149138/Modern_City_Scenario) |
 | **Face Mask Detection** | Detect masks using AlexNet CNN | Python, CNN | [Repo](https://github.com/Hajjaj149138/Machine_Learning) |
 | **E-Sports Tournament Management** | Tournament platform with ASP.NET | ASP.NET MVC, SQL Server | [Repo](https://github.com/Hajjaj149138/ESTMS2.0/tree/master/ESTMS) |
@@ -61,8 +63,9 @@ I'm looking to grow as a **.NET Full Stack Developer** and contribute to impactf
 
 ## 🔭 Current Focus
 
-- Learning **ASP.NET Core**, **Entity Framework**, and **Blazor**  
-- Creating end-to-end projects to demonstrate .NET expertise  
+- Learning & building projects with **Java Spring Boot** (REST APIs, Security, JPA/Hibernate)  
+- Exploring **Microservices Architecture** and **Cloud Deployment (Docker, AWS)**  
+- Enhancing backend expertise while keeping **ASP.NET Core** skills active  
 - Collaborating on GitHub and growing in a professional software development environment
 
 ---
