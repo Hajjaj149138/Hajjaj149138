@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Md. Hajjaj Bin Sonosi</h1>
+<h1 align="center">Hi there 👋, I'm <i>Md. Hajjaj Bin Sonosi</i></h1>
 
 <p align="center">
   🧑‍💻 Software Engineer | Aspiring Backend Developer <br/>
