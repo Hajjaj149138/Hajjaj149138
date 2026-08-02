@@ -151,7 +151,7 @@ public class SoftwareEngineer {
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| ⭐ **Easy To Europe** | Production multi-page website, architected and shipped end-to-end | `Next.js` `React` `CMS` | [Live Site](https://hajjaj-portfolio.vercel.app/#projects) |
+| ⭐ **Easy To Europe** | Production multi-page website, architected and shipped end-to-end | `Next.js` `React` `CMS` | [Live Site](https://easytoeurope.com) |
 | **Modern City Scenario** | Real-time 3D city simulation with animated objects | `C++` `OpenGL (GLUT)` | [Repo](https://github.com/Hajjaj149138/Modern_City_Scenario) |
 | **E-Ticketing System** | Bus/train/air booking system with seat selection & fare calculation | `Java` `Java Swing` | [Repo](https://github.com/Hajjaj149138/E_Ticketing-System-Bus-Train-Plane-) |
 | **Prison Management System** | Console-based records management with structured file handling | `C++` | [Repo](https://github.com/Hajjaj149138/Prison_Management_System) |
