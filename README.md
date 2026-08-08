@@ -12,12 +12,12 @@
 <td valign="middle">
 
 <a href="https://hajjaj-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=D4A054&center=false&vCenter=true&width=560&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Boot+Developer;React+%26+Next.js+Builder;Backend-Minded%2C+Full-Stack+in+Practice;Turning+Ideas+Into+Scalable+Web+Solutions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=D4A054&center=false&vCenter=true&width=560&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Boot+Developer;React+%26+Next.js+Builder;Now+Building+with+Odoo+%26+PostgreSQL;Turning+Ideas+Into+Scalable+Web+Solutions." alt="Typing SVG" />
 </a>
 
 &nbsp;
 
-📍 Dhaka, Bangladesh &nbsp;•&nbsp; 🎓 CSE Graduate, AIUB &nbsp;•&nbsp; 💼 Web Developer @ Easy To Europe
+📍 Dhaka, Bangladesh &nbsp;•&nbsp; 🎓 CSE Graduate, AIUB &nbsp;•&nbsp; 💼 Full-Stack Software Engineer @ Easy To Europe
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hajjaj--portfolio.vercel.app-D4A054?style=for-the-badge&logo=vercel&logoColor=white)](https://hajjaj-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hajjaj-bin-sonosi)
@@ -45,15 +45,16 @@ public class SoftwareEngineer {
     private final String location = "Dhaka, Bangladesh";
 
     private final String[] stack  = {
-        "Java", "Spring Boot", "React", "Next.js", "MySQL", "RESTful APIs"
+        "Java", "Spring Boot", "React", "Next.js",
+        "MySQL", "MongoDB", "PostgreSQL", "RESTful APIs"
     };
 
     public String currentlyBuilding() {
-        return "Internal CRM in Java & Spring Boot @ Easy To Europe";
+        return "Apollo Health (Hospital Management System) + internal CRM @ Easy To Europe";
     }
 
     public String currentlyLearning() {
-        return "Advanced Spring Boot patterns, Odoo, and whatever ships next";
+        return "Odoo development — Python, XML, QWeb, PostgreSQL, and Docker";
     }
 
     public boolean fastLearner() {
@@ -66,11 +67,12 @@ public class SoftwareEngineer {
 }
 ```
 
-- 🔭 **Currently building:** an internal CRM system in Java & Spring Boot
-- 🌱 **Currently exploring:** advanced Spring Boot architecture, Odoo, and full-stack patterns
+- 🔭 **Currently building:** [Apollo Health](https://apollo-health-three.vercel.app/) — a full-stack hospital management system (Next.js, MongoDB, JWT)
+- 💼 **At work:** leading the backend of an internal CRM in Java & Spring Boot @ Easy To Europe
+- 🌱 **Currently learning:** Odoo development (Python, XML, QWeb, PostgreSQL) and Docker
 - 🎓 **Education:** B.Sc. in CSE, AIUB — CGPA 3.86/4.00, **Magna Cum Laude (Silver Medal)**, **4× Dean's List Honors**
 - 📜 **Certified in:** Backend Web Development with Java & Spring Boot (Ostad), IT Essentials (Cisco Networking Academy)
-- 💬 **Ask me about:** Java, Spring Boot, REST APIs, React, Next.js, full-stack architecture
+- 💬 **Ask me about:** Java, Spring Boot, REST APIs, React, Next.js, full-stack architecture, Odoo/ERP
 - ⚡ **Fun fact:** shipped a production website solo, end-to-end, before most people finish their coffee
 
 <br/>
@@ -98,7 +100,7 @@ public class SoftwareEngineer {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,js,html,css,cpp,python,php,mysql,git,github,postman,idea,vscode,wordpress&perline=9" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,js,html,css,cpp,python,php,mysql,mongodb,postgres,docker,git,github,postman,idea,vscode,wordpress&perline=10" />
 
 </div>
 
@@ -152,9 +154,10 @@ public class SoftwareEngineer {
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | ⭐ **Easy To Europe** | Production multi-page website, architected and shipped end-to-end | `Next.js` `React` `CMS` | [Live Site](https://easytoeurope.com) |
-| **Modern City Scenario** | Real-time 3D city simulation with animated objects | `C++` `OpenGL (GLUT)` | [Repo](https://github.com/Hajjaj149138/Modern_City_Scenario) |
+| 🏥 **Apollo Health** | Full-stack hospital management system — patients, doctors & admin roles, JWT auth, print-ready records | `Next.js 14` `MongoDB` `JWT` `Tailwind` | [Live](https://apollo-health-three.vercel.app/) · [Code](https://github.com/Hajjaj149138/apollo-health-hms) |
+| **Internal CRM System** | Backend architecture for an internal CRM, replacing a paid subscription tool | `Java` `Spring Boot` `MySQL` | Private repository |
 | **E-Ticketing System** | Bus/train/air booking system with seat selection & fare calculation | `Java` `Java Swing` | [Repo](https://github.com/Hajjaj149138/E_Ticketing-System-Bus-Train-Plane-) |
-| **Prison Management System** | Console-based records management with structured file handling | `C++` | [Repo](https://github.com/Hajjaj149138/Prison_Management_System) |
+| **Modern City Scenario** | Real-time 3D city simulation with animated objects | `C++` `OpenGL (GLUT)` | [Repo](https://github.com/Hajjaj149138/Modern_City_Scenario) |
 
 </div>
 
@@ -180,7 +183,7 @@ public class SoftwareEngineer {
 
 <div align="center">
 
-Open to full-stack and backend roles — always happy to talk Java, Spring Boot, React, or the next thing I should learn.
+Open to full-stack, backend, and Odoo/ERP roles — always happy to talk Java, Spring Boot, React, or the next thing I should learn.
 
 [![Portfolio](https://img.shields.io/badge/-Visit%20Portfolio-D4A054?style=flat-square&logo=vercel&logoColor=white)](https://hajjaj-portfolio.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801405833036)
