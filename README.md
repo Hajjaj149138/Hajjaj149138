@@ -1,41 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1013,100:1a1e25&height=200&section=header&text=Hey,%20I'm%20Hajjaj%20👋&fontSize=38&fontColor=D4A054&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React%20%26%20Next.js&descAlignY=55&descSize=15&descColor=E8E6E1&animation=fadeIn" width="100%"/>
-
-</div>
-
-<table align="center">
-<tr>
-<td width="290" valign="middle" align="center">
-<img src="./assets/profile-photo.png" width="260" alt="Md. Hajjaj Bin Sonosi" />
-</td>
-<td valign="middle">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1013,50:1a1e25,100:0e1013&height=220&section=header&text=Hey,%20I'm%20Hajjaj%20👋&fontSize=42&fontColor=D4A054&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React%20%26%20Next.js&descAlignY=52&descSize=16&descColor=E8E6E1&animation=fadeIn"/>
 
 <a href="https://hajjaj-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=D4A054&center=false&vCenter=true&width=560&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Boot+Developer;React+%26+Next.js+Builder;Now+Building+with+Odoo+%26+PostgreSQL;Turning+Ideas+Into+Scalable+Web+Solutions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=D4A054&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Boot+Developer;React+%26+Next.js+Builder;Now+Learning%3A+Odoo+%2B+PostgreSQL+%2B+Docker;Turning+Ideas+Into+Scalable+Web+Solutions." alt="Typing SVG" />
 </a>
 
-&nbsp;
+<br/>
 
-📍 Dhaka, Bangladesh &nbsp;•&nbsp; 🎓 CSE Graduate, AIUB &nbsp;•&nbsp; 💼 Full-Stack Software Engineer @ Easy To Europe
+📍 Dhaka, Bangladesh&nbsp; &nbsp;🎓 CSE Graduate, AIUB&nbsp; &nbsp;💼 Full-Stack Software Engineer @ Easy To Europe
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hajjaj--portfolio.vercel.app-D4A054?style=for-the-badge&logo=vercel&logoColor=white)](https://hajjaj-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hajjaj-bin-sonosi)
 [![Gmail](https://img.shields.io/badge/Email-Say%20Hi-52D1C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajjajbin149138@gmail.com)
 
+<img src="https://komarev.com/ghpvc/?username=Hajjaj149138&label=Profile%20Views&color=D4A054&style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/github/followers/Hajjaj149138?label=Followers&style=for-the-badge&color=52D1C6"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A054,100:52D1C6&height=3&section=header"/>
+
+<table align="center">
+<tr>
+<td width="270" valign="middle" align="center">
+<img src="./assets/profile-photo.png" width="240" style="border-radius:14px" alt="Md. Hajjaj Bin Sonosi" />
+</td>
+<td valign="middle" width="600">
+
+### 🚀 About Me
+
+Curious, growth-driven **Full-Stack Software Engineer** who thrives on solving real problems and shipping things end-to-end — frontend to database. I currently lead the backend build of an internal CRM at **Easy To Europe** (Java & Spring Boot) while shipping the frontend in **React/Next.js**, and I'm actively expanding into **Odoo/ERP development**.
+
+Backed by a **CGPA of 3.86**, **Magna Cum Laude (Silver Medal)**, and **4× Dean's List Honors** — I learn fast, ship faster, and I'm always looking for the next hard problem.
+
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A054,100:52D1C6&height=3&section=header"/>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote"/>
+
+### 💻 In Code
+
 </div>
-
-<br/>
-
-## 🚀 About Me
 
 ```java
 public class SoftwareEngineer {
@@ -67,17 +78,46 @@ public class SoftwareEngineer {
 }
 ```
 
-- 🔭 **Currently building:** [Apollo Health](https://apollo-health-three.vercel.app/) — a full-stack hospital management system (Next.js, MongoDB, JWT)
-- 💼 **At work:** leading the backend of an internal CRM in Java & Spring Boot @ Easy To Europe
-- 🌱 **Currently learning:** Odoo development (Python, XML, QWeb, PostgreSQL) and Docker
-- 🎓 **Education:** B.Sc. in CSE, AIUB — CGPA 3.86/4.00, **Magna Cum Laude (Silver Medal)**, **4× Dean's List Honors**
-- 📜 **Certified in:** Backend Web Development with Java & Spring Boot (Ostad), IT Essentials (Cisco Networking Academy)
-- 💬 **Ask me about:** Java, Spring Boot, REST APIs, React, Next.js, full-stack architecture, Odoo/ERP
-- ⚡ **Fun fact:** shipped a production website solo, end-to-end, before most people finish their coffee
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A054,100:52D1C6&height=3&section=header"/>
 
+<div align="center">
+
+### 📊 Skill Confidence
+
+<img src="https://progress-bar.dev/90/?title=Java&width=280&color=D4A054"/>
+<img src="https://progress-bar.dev/85/?title=Spring+Boot&width=280&color=D4A054"/><br/>
+<img src="https://progress-bar.dev/85/?title=React+%2F+Next.js&width=280&color=52D1C6"/>
+<img src="https://progress-bar.dev/80/?title=MySQL+%2F+MongoDB&width=280&color=52D1C6"/><br/>
+<img src="https://progress-bar.dev/40/?title=Odoo+%2F+PostgreSQL+(learning)&width=280&color=A6ACB8"/>
+<img src="https://progress-bar.dev/35/?title=Docker+(learning)&width=280&color=A6ACB8"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A054,100:52D1C6&height=3&section=header"/>
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+**Backend & APIs**
 <br/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres&perline=5"/>
 
-## 🧠 Fun Facts
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&perline=6"/>
+
+**Languages & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,python,php,git,github,postman,idea,vscode,wordpress,docker&perline=10"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A054,100:52D1C6&height=3&section=header"/>
+
+<details>
+<summary><b>🧠 Fun Facts (click to expand)</b></summary>
+<br/>
 
 <div align="center">
 
@@ -94,104 +134,149 @@ public class SoftwareEngineer {
 
 </div>
 
-<br/>
+</details>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,js,html,css,cpp,python,php,mysql,mongodb,postgres,docker,git,github,postman,idea,vscode,wordpress&perline=10" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A054,100:52D1C6&height=3&section=header"/>
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote"/>
+
+### 📈 GitHub Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hajjaj149138&theme=react-dark&hide_border=true&bg_color=0e1013&color=d4a054&line=d4a054&point=52d1c6&area=true&area_color=d4a054" width="100%"/>
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hajjaj149138&show_icons=true&hide_border=true&bg_color=0e1013&title_color=D4A054&icon_color=52D1C6&text_color=A6ACB8&ring_color=D4A054"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajjaj149138&layout=compact&hide_border=true&bg_color=0e1013&title_color=D4A054&text_color=A6ACB8&langs_count=8"/>
 
-<div align="center">
+<br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hajjaj149138&show_icons=true&hide_border=true&bg_color=0e1013&title_color=D4A054&icon_color=52D1C6&text_color=A6ACB8&ring_color=D4A054" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajjaj149138&layout=compact&hide_border=true&bg_color=0e1013&title_color=D4A054&text_color=A6ACB8&langs_count=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hajjaj149138&hide_border=true&background=0e1013&ring=D4A054&fire=D4A054&currStreakLabel=D4A054&sideLabels=A6ACB8&currStreakNum=E8E6E1&sideNums=E8E6E1&dates=6B7280"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hajjaj149138&hide_border=true&background=0e1013&ring=D4A054&fire=D4A054&currStreakLabel=D4A054&sideLabels=A6ACB8&currStreakNum=E8E6E1&sideNums=E8E6E1&dates=6B7280" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hajjaj149138&theme=dracula&no-frame=true&no-bg=true&row=1&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hajjaj149138&theme=dracula&no-frame=true&no-bg=true&row=1&margin-w=10&column=7"/>
 
 </div>
 
-<br/>
-
-## 🐍 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A054,100:52D1C6&height=3&section=header"/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hajjaj149138/Hajjaj149138/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Hajjaj149138/Hajjaj149138/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 
 </div>
 
-<br/>
-
-## 💼 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A054,100:52D1C6&height=3&section=header"/>
 
 <div align="center">
 
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| ⭐ **Easy To Europe** | Production multi-page website, architected and shipped end-to-end | `Next.js` `React` `CMS` | [Live Site](https://easytoeurope.com) |
-| 🏥 **Apollo Health** | Full-stack hospital management system — patients, doctors & admin roles, JWT auth, print-ready records | `Next.js 14` `MongoDB` `JWT` `Tailwind` | [Live](https://apollo-health-three.vercel.app/) · [Code](https://github.com/Hajjaj149138/apollo-health-hms) |
-| **Internal CRM System** | Backend architecture for an internal CRM, replacing a paid subscription tool | `Java` `Spring Boot` `MySQL` | Private repository |
-| **E-Ticketing System** | Bus/train/air booking system with seat selection & fare calculation | `Java` `Java Swing` | [Repo](https://github.com/Hajjaj149138/E_Ticketing-System-Bus-Train-Plane-) |
-| **Modern City Scenario** | Real-time 3D city simulation with animated objects | `C++` `OpenGL (GLUT)` | [Repo](https://github.com/Hajjaj149138/Modern_City_Scenario) |
+### 💼 Featured Projects
 
 </div>
 
-<p align="center">
-  <a href="https://hajjaj-portfolio.vercel.app/"><b>→ Full portfolio with live demos, awards & more</b></a>
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
+**⭐ Easy To Europe**
 <br/>
+Production multi-page website, architected and shipped end-to-end.
+<br/>
+`Next.js` `React` `CMS`
+<br/>
+[→ Live Site](https://easytoeurope.com)
 
-## 📈 Snapshot
+</td>
+<td width="50%" valign="top">
+
+**🏥 Apollo Health**
+<br/>
+Full-stack hospital management system — patient/doctor/admin roles, JWT auth, print-ready records.
+<br/>
+`Next.js 14` `MongoDB` `JWT` `Tailwind`
+<br/>
+[→ Live](https://apollo-health-three.vercel.app/) · [Code](https://github.com/Hajjaj149138/apollo-health-hms)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Internal CRM System**
+<br/>
+Backend architecture for an internal CRM, replacing a paid subscription tool.
+<br/>
+`Java` `Spring Boot` `MySQL`
+<br/>
+🔒 Private repository
+
+</td>
+<td width="50%" valign="top">
+
+**E-Ticketing System**
+<br/>
+Bus/train/air booking system with seat selection & fare calculation.
+<br/>
+`Java` `Java Swing`
+<br/>
+[→ Code](https://github.com/Hajjaj149138/E_Ticketing-System-Bus-Train-Plane-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Modern City Scenario**
+<br/>
+Real-time 3D city simulation with animated objects.
+<br/>
+`C++` `OpenGL (GLUT)`
+<br/>
+[→ Code](https://github.com/Hajjaj149138/Modern_City_Scenario)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://hajjaj-portfolio.vercel.app/"><b>→ See the full portfolio</b></a>
+<br/><br/>
+Live demos, certificates, and everything else, in one place.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A054,100:52D1C6&height=3&section=header"/>
 
 <div align="center">
 
-| CGPA | Dean's List | Projects Built | Tools & Tech |
-|:---:|:---:|:---:|:---:|
-| **3.86**/4.00 | **4×** | **50+** | **20+** |
+### 🎓 Education & Certifications
+
+**B.Sc. in Computer Science & Engineering** — AIUB (2020–2024)
+<br/>
+CGPA **3.86**/4.00 · **Magna Cum Laude (Silver Medal)** · **4× Dean's List Honors**
+<br/><br/>
+📜 Backend Web Development with Java & Spring Boot — Ostad
+<br/>
+📜 IT Essentials — Cisco Networking Academy
 
 </div>
 
-<br/>
-
-## 🤝 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4A054,100:52D1C6&height=3&section=header"/>
 
 <div align="center">
+
+### 🤝 Let's Connect
 
 Open to full-stack, backend, and Odoo/ERP roles — always happy to talk Java, Spring Boot, React, or the next thing I should learn.
 
-[![Portfolio](https://img.shields.io/badge/-Visit%20Portfolio-D4A054?style=flat-square&logo=vercel&logoColor=white)](https://hajjaj-portfolio.vercel.app/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801405833036)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hajjaj-bin-sonosi)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hajjajbin149138@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Hajjaj149138&label=Profile%20Views&color=D4A054&style=flat" />
+[![Portfolio](https://img.shields.io/badge/-Visit%20Portfolio-D4A054?style=for-the-badge&logo=vercel&logoColor=white)](https://hajjaj-portfolio.vercel.app/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801405833036)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hajjaj-bin-sonosi)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajjajbin149138@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1e25,100:0e1013&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1e25,100:0e1013&height=120&section=footer"/>
