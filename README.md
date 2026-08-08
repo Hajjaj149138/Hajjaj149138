@@ -82,14 +82,27 @@ public class SoftwareEngineer {
 
 <div align="center">
 
-### 📊 Skill Confidence
+### 📊 Skill Levels
 
-<img src="https://progress-bar.dev/90/?title=Java&width=280&color=D4A054"/>
-<img src="https://progress-bar.dev/85/?title=Spring+Boot&width=280&color=D4A054"/><br/>
-<img src="https://progress-bar.dev/85/?title=React+%2F+Next.js&width=280&color=52D1C6"/>
-<img src="https://progress-bar.dev/80/?title=MySQL+%2F+MongoDB&width=280&color=52D1C6"/><br/>
-<img src="https://progress-bar.dev/40/?title=Odoo+%2F+PostgreSQL+(learning)&width=280&color=A6ACB8"/>
-<img src="https://progress-bar.dev/35/?title=Docker+(learning)&width=280&color=A6ACB8"/>
+**🟢 Core Stack**
+<br/>
+![Java](https://img.shields.io/badge/Java-D4A054?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-D4A054?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-D4A054?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-D4A054?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**🔵 Also Comfortable With**
+<br/>
+![MySQL](https://img.shields.io/badge/MySQL-52D1C6?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-52D1C6?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-52D1C6?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-52D1C6?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**🟡 Currently Learning**
+<br/>
+![Odoo](https://img.shields.io/badge/Odoo-A6ACB8?style=for-the-badge&logo=odoo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A6ACB8?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-A6ACB8?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -97,17 +110,11 @@ public class SoftwareEngineer {
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### 🛠️ Full Tech Stack
 
-**Backend & APIs**
-<br/>
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres&perline=5"/>
-
-**Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&perline=6"/>
-
-**Languages & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,python,php,git,github,postman,idea,vscode,wordpress,docker&perline=10"/>
 
